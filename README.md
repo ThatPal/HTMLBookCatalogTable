@@ -1,6 +1,9 @@
 # HTML Book Catalog Table
 A practice project completed while learning HTML
 
+[![ThatPal github stats](https://github-readme-stats.vercel.app/api?username=ThatPal)](https://github.com/ThatPal/github-readme-stats)
+
+
 Project from [freeCodeCamp][Learning Site] in the [Full Stack Developer][Curriculum] learning curriculum.
 
 Project includes:
